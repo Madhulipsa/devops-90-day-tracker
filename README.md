@@ -1,27 +1,25 @@
-# 🚀 DevOps 90-Day Tracker
+#👋 Hi, I’m Madhulipsa Biswal
 
-My journey to learn DevOps, AWS and related tools.
+🚀 About Me
 
-## 📊 Progress
+##B.Tech 2023 Graduate | Future DevOps Engineer 
+##💡 Working as Customer Care Executive in BPO, developing good communication, analytical and troubleshooting skills.
+##🌱  Train With Shubham (Uddan Batch) — working on hands on project experience in Cloud, DevOps and CI/CD pipeline. 
+##🌱 Passionate about automation, cloud native solutions and continuous integration 💬 Ask me anything about Python, Linux, AWS and DevOps workflows.
+##⚡ Fun fact: I love to automate real-world problem solving skills and share the learning process on LinkedIn!
 
-- Start Date: 22 September 2026
-- Target: 90 Days
-- Status: 🟨 In Progress
+🛠️ Tech Stack & Tools
 
-## 📅 Daily Tracker
+Operating System & Scripting: Linux (Bash), Python
 
-| Day | Topic | Study | Practice | Status |
-|---|---|---|---|---|
-| Day 1 | Linux Basics | ⬜ | ⬜ | Not Started |
-| Day 2 | Linux Commands | ⬜ | ⬜ | Not Started |
-| Day 3 | Git Basics | ⬜ | ⬜ | Not Started |
-| Day 4 | GitHub | ⬜ | ⬜ | Not Started |
-| Day 5 | Git Branching | ⬜ | ⬜ | Not Started |
+Version Control: Git, GitHub
 
-## 📝 Daily Notes
+Cloud Platform: AWS (EC2, S3, IAM, VPC)
 
-### Day 1
-- What I learned:
-- Commands practiced:
-- Problems faced:
-- What I need to revise:
+Containerization & Orchestration: Docker, Kubernetes
+
+CI/CD & Automation: Jenkins, GitHub Actions
+
+Infrastructure as Code (IaC): Terraform
+
+Monitoring & Observability: Prometheus, Grafana
