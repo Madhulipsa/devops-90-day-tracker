@@ -26,13 +26,12 @@
 ## 📈 Activity & DevOps Growth Tracker
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhulipsabiswal&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&text_color=c9d1d9&title_color=58a6ff&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhulipsabiswal&theme=transparent&text_color=c9d1d9&title_color=58a6ff&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
-
 ---
 
 ## ⚡ Let's Connect & Collaborate!
